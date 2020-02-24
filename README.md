@@ -28,4 +28,5 @@ Now imagine if you take a 1 degree at a time, you will end up in 360 times, ever
 
 
 https://vimeo.com/386037115
+
 so the video shows, i snap 180 to a completely new object
