@@ -71,7 +71,7 @@ class Dialog(QDialog):
         mainLayout.addWidget(self.formGroupBox)
         self.setLayout(mainLayout)
         
-        self.setWindowTitle("Tenku")
+        self.setWindowTitle("ReyonMouseFix")
         try:
             self.config = open(resource_path("config.json"), "r+", buffering=1)
         except IOError:
@@ -199,7 +199,7 @@ class Dialog(QDialog):
         self.config.truncate()
         self.config.flush()
         
-        self.process = Popen(['%s' % resource_path("TenkuDriver.exe"), '%s' % (json.dumps({
+        self.process = Popen(['%s' % resource_path("ReyonDriver.exe"), '%s' % (json.dumps({
             "scale__x":float(scale_x),
             "scale__y":float(scale_y),
             "scale_x":float(self.scale_x.text()),
@@ -324,7 +324,6 @@ if __name__ == '__main__':
     app_icon.addFile(resource_path('icon.png'), QtCore.QSize(256,256))
     app.setWindowIcon(app_icon)
     #app.setWindowIcon(app_icon)
-  #  oImage = QImage("tenku.jpg")
    # sImage = oImage.scaled(QSize(500,375))                   # resize Image to widgets size
  #   palette = QPalette()
   #  palette.setBrush(10, QBrush(sImage))                     # 10 = Windowrole
