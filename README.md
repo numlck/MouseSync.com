@@ -26,7 +26,6 @@ especially on Spheres because imagine this. if you move i.e 3.2632 radians acros
 how often do you end up in the same spot? 
 Now imagine if you take a 1 degree at a time, you will end up in 360 times, everytime.
 
-
-https://vimeo.com/386037115
+https://vimeo.com/393364332
 
 so the video shows, i snap 180 to a completely new object
