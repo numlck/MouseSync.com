@@ -22,7 +22,7 @@ Now do the same but i say move the apple 3.1436262 to the right
 A mouse works in any fraction, but does your brain too?
 its really not a computer problem, its a user problem
 
-especially on Spheres because imagine this. if you move i.e 3.2632 radians across the diameter of the sphere, 
+especially on Spheres because imagine this. if you move i.e 3.2632 radians across the circumfrence of the sphere, 
 how often do you end up in the same spot? 
 Now imagine if you take a 1 degree at a time, you will end up in 360 times, everytime.
 
