@@ -9,9 +9,6 @@ There are also other improvements embedded such as a reverse engineered WMO algo
 I have alot of improvements like constant latency, the idea behind is that it doesnt matter the latency aslong as its a constant you increase accuracy. Most mice jitter their latency like crazy
 
 **CHAT EXCERPS**
-I havent released the fix yet because i really need some money to buy a ticket.
-
-Hoping to sell the source code, which i worked on for 2 years, to someone who will take it far.
 
 what they call linear is not linear, its only linear mathematically like DX + a   
 the gain can be anything 3.2626 its still considered linear because the movement is directly correlated. 
