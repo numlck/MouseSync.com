@@ -54,4 +54,4 @@ Extra Scale X is Sensitivity, Recommended to try it out but keep it in integer r
 Extra Scale Y is Sensitivity, Recommended to try it out but keep it in integer ratios like 12,3 or 0.5, 0.333 etc
 
 
-
+**Please provide feedback Discord: Reyon#3888***
