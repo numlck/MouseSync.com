@@ -38,11 +38,20 @@ so the video shows, i snap 180 to a completely new object
 For username and password enter: trial
 
 MouseDPI is DPI of the mouse
+
 Polling rate: Does nothing for now
+
 Resolution X is autofilled ( change this with the games resolution if you play full screen e.g 1280x1024)
+
 Resolution Y is autofilled ( change this with the games resolution if you play full screen e.g 1280x1024)
+
 Physical Screen X is the width of your monitor in millimeter
+
 Physical Screen Y is the height of your monitor in millimeter
+
 Extra Scale X is Sensitivity, Recommended to try it out but keep it in integer ratios like 12,3 or 0.5, 0.333 etc
+
 Extra Scale Y is Sensitivity, Recommended to try it out but keep it in integer ratios like 12,3 or 0.5, 0.333 etc
+
+
 
