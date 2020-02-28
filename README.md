@@ -2,6 +2,18 @@
 A mousefix that greatly improves aim by quantization (for lack of a better word)
 
 
+Some videos:
+
+https://streamable.com/qawug
+
+
+
+https://www.reddit.com/r/FPSAimTrainer/comments/f96u6x/github_e9kreyonmousefix_a_mousefix_that_greatly/fipupju?utm_source=share&utm_medium=web2x
+>Okay so program seemed safe enough, data being sent out seems non-malicious, so I tried it. Not gonna lie, it might just be placebo, but I definitely feel more consistent and smoother already, though the mouse feel has noticeably changed and I can't tell if there's input lag or whether this is just a result of the quantization.
+
+Here's a quick clip from bounce 180 that I hit with this driver interceptor. I'd say this is the nicest b180 clip I've ever gotten by a little bit, seems like I can move at quicker speeds without losing as much smoothness and precision. Using GPW @ 37cm/360 on cordura mouse pad. I have the X/Y scaling set to 10 for each, also. 
+https://streamable.com/qawug
+
 
 # How To Install
 Download the latest release from https://github.com/e9k/ReyonMouseFix/releases
