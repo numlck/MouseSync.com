@@ -4,7 +4,7 @@ A mousefix that greatly improves aim by quantization (for lack of a better word)
 # Experience
 **Make a pull request if you want to feature your highlight or video in here.**
 
-ApexLegends skip to 1:28 : https://streamable.com/bwk0x
+ApexLegends (made by a Top 250 world player) skip to 1:28 : https://streamable.com/bwk0x
 
 
 
