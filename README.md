@@ -28,7 +28,6 @@ On the second run enter details.
 
 # How To Use
 
-- For username and password enter: trial
 
 - MouseDPI is DPI of the mouse
 
