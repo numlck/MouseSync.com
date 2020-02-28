@@ -4,7 +4,10 @@ A mousefix that greatly improves aim by quantization (for lack of a better word)
 # Experience
 **Make a pull request if you want to feature your highlight or video in here.**
 
-ApexLegends: https://streamable.com/bwk0x
+ApexLegends skip to 1:28 : https://streamable.com/bwk0x
+
+
+
 
 
 > https://www.reddit.com/r/FPSAimTrainer/comments/f96u6x/github_e9kreyonmousefix_a_mousefix_that_greatly/fipupju?utm_source=share&utm_medium=web2x
