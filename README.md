@@ -1,8 +1,9 @@
 # ReyonMouseFix
 A mousefix that greatly improves aim by quantization (for lack of a better word)
 
+# Experience
+**Make a pull request if you want to feature your highlight or video in here.
 
-Some videos:
 ApexLegends: https://streamable.com/bwk0x
 
 
