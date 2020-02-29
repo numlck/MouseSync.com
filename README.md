@@ -1,5 +1,10 @@
 # ReyonMouseFix
 A mousefix that greatly improves aim by quantization (for lack of a better word)
+Uses one of the same libraries as Povohat/Kovaaks Mouse Accell | Interaccell 
+
+There is a major bug in the Kovaaks Mouse Accell program namely that they use `floor()` to round the numbers. This works fine for positive decimals but when its negative it finds the greatest number which i.e `-2.326` becomes `-2.0` because `-2.0 > -2.326` but on the positive side it turns `2.326` into `3.0`, and you can test it yourself, your left movement is slower then your right movement.
+
+**This driver doesnt suffer from that.** 
 
 # Experience
 **Make a pull request if you want to feature your highlight or video in here.**
