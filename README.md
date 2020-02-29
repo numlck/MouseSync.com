@@ -8,7 +8,6 @@ There is a major bug in the Kovaaks Mouse Accell program namely that they use `f
 
 # Experience
 
-Overwatch Play of The Game: https://streamable.com/0z4qp
 
 
 ApexLegends (made by a Top 250 world player) skip to 1:28 : https://streamable.com/bwk0x
