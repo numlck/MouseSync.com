@@ -7,7 +7,6 @@ There is a major bug in the Kovaaks Mouse Accell program namely that they use `f
 **This driver doesnt suffer from that.** 
 
 # Experience
-**Make a pull request if you want to feature your highlight or video in here.**
 
 Overwatch Play of The Game: https://streamable.com/0z4qp
 
@@ -24,6 +23,7 @@ ApexLegends (made by a Top 250 world player) skip to 1:28 : https://streamable.c
 >Here's a quick clip from bounce 180 that I hit with this driver interceptor. I'd say this is the nicest b180 clip I've ever gotten by a little bit, seems like I can move at quicker speeds without losing as much smoothness and precision. Using GPW @ 37cm/360 on cordura mouse pad. I have the X/Y scaling set to 10 for each, also. 
 https://streamable.com/qawug
 
+**Make a pull request if you want to feature your highlight or video in here.**
 
 # How To Install
 Download the latest release from https://github.com/e9k/ReyonMouseFix/releases
