@@ -8,7 +8,7 @@ There is a major bug in the Kovaaks Mouse Accell program namely that they use `f
 
 # Experience
 
-
+CSGO Test: https://www.youtube.com/watch?v=gvHR4sSql-E
 
 ApexLegends (made by a Top 250 world player) skip to 1:28 : https://streamable.com/bwk0x
 
