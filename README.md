@@ -47,9 +47,9 @@ On the second run enter details.
 
 - Resolution Y is autofilled ( change this with the games resolution if you play full screen e.g 1280x1024)
 
-- Physical Screen X is the width of your monitor in millimeter
+- Physical Screen X is the width of your monitor SCREEN in millimeter (use manual to find dimensions of your screen)
 
-- Physical Screen Y is the height of your monitor in millimeter
+- Physical Screen Y is the height of your monitor SCREEN in millimeter (use manual to find dimensions of your screen)
 
 - Extra Scale X is Sensitivity, Recommended to try it out but keep it in integer ratios like 12,3 or 0.5, 0.333 etc
 
