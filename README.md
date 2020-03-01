@@ -6,6 +6,8 @@ There is a major bug in the Kovaaks Mouse Accell program namely that they use `f
 
 **This driver doesnt suffer from that.** 
 
+Warning: FaceIT might have problems with the Interception Library contained within this software.
+
 # Experience
 - **Diabotical Insane Triple Kill: https://streamable.com/vd4dz**
 
