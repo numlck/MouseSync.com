@@ -7,6 +7,7 @@ There is a major bug in the Kovaaks Mouse Accell program namely that they use `f
 **This driver doesnt suffer from that.** 
 
 # Experience
+Diabotical Insane Triple Kill: https://streamable.com/vd4dz
 
 CSGO Test: https://www.youtube.com/watch?v=gvHR4sSql-E
 
