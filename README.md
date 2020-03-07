@@ -9,6 +9,8 @@ The problem really lies in the fact that Windows doesnt support a decimal number
 
 ReyonMouseFix directly correlates the mouse distance like (1.2345) into the same screen distance. So i.e 1cm mouse == 1cm screen
 
+or a whole integer thereof like 1:5, you can adjust this in Extra Scale X/Y Setting
+
 # Sidenote 
 
 There is a major bug in the Kovaaks Mouse Accell program namely that they use `floor()` to round the numbers. This works fine for positive decimals but when its negative it finds the lowest number which i.e `-2.326` becomes `-3.0` because `-3.0 < -2.326` but on the positive side it turns `2.326` into `2.0`, and you can test it yourself, your left movement is faster then your right movement.
