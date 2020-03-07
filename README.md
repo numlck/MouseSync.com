@@ -5,7 +5,9 @@ Uses one of the same libraries as Povohat/Kovaaks Mouse Accell | Interaccell
 # What it does
 
 Windows has a mouse calculation that relates to integers. So your mouse can only move whole units like 1,2,3,4
-But depending on your settings your mouse might move in a fractional gain. Like i.e 1 Unit of mouse movement is 3.325 Units of screen movement. Because pixels are indivisible this poses a big problem and can and does introduce inaccuracy in Raw Input and possibly Normal Windows Calculation. ReyonMouseFix tries to fix all this by intercepting all the mouse movement and calibrate it so that 1 unit of mouse movements equals the physical mouse distance in screen distance.
+The problem really lies in the fact that Windows doesnt support a decimal number for mouse input like 1.2352 it only supports whole integers like DX = 1,2,3,4 Thereby whatever is considered 1 in real life distance becomes the calibration
+
+ReyonMouseFix directly correlates the mouse distance like (1.2345) into the same screen distance. So i.e 1cm mouse == 1cm screen
 
 # Sidenote 
 
