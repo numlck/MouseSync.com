@@ -2,6 +2,13 @@
 A mousefix that greatly improves aim by quantization (for lack of a better word)
 Uses one of the same libraries as Povohat/Kovaaks Mouse Accell | Interaccell 
 
+# What it does
+
+Windows has a mouse calculation that relates to integers. So your mouse can only move whole units like 1,2,3,4
+But depending on your settings your mouse might move in a fractional gain. Like i.e 1 Unit of mouse movement is 3.325 Units of screen movement. Because pixels are indivisible this poses a big problem and can and does introduce inaccuracy in Raw Input and possibly Normal Windows Calculation. ReyonMouseFix tries to fix all this by intercepting all the mouse movement and calibrate it so that 1 unit of mouse movements equals the physical mouse distance in screen distance.
+
+# Sidenote 
+
 There is a major bug in the Kovaaks Mouse Accell program namely that they use `floor()` to round the numbers. This works fine for positive decimals but when its negative it finds the lowest number which i.e `-2.326` becomes `-3.0` because `-3.0 < -2.326` but on the positive side it turns `2.326` into `2.0`, and you can test it yourself, your left movement is faster then your right movement.
 
 **This driver doesnt suffer from that.** 
