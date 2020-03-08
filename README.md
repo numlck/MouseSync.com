@@ -46,7 +46,7 @@ After your first run, restart the computer
 On the second run enter details.
 
 
-
+Note: ReyonMouseFix needs to be in a writeable folder like Documents 
 
 
 
