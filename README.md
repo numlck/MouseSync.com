@@ -70,5 +70,5 @@ Note: ReyonMouseFix needs to be in a writeable folder like Documents
 - Extra Scale Y is Sensitivity, Recommended to try it out but keep it in integer ratios like 12,3 or 0.5, 0.333 etc
 
 # Contact
-
-**Please provide feedback Discord: https://discord.gg/fUDXq9h***
+**Twitter: https://twitter.com/reyon2g
+Join us on Discord: https://discord.gg/fUDXq9h***
