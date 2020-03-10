@@ -21,7 +21,7 @@ Warning: FaceIT might have problems with the Interception Library contained with
 
 # Experience
 
-- ** Jump from a roof and hit someone mid air in Apex Legends: https://clips.twitch.tv/ExquisiteSourWombatKappaWealth**
+- **Jump from a roof and hit someone mid air in Apex Legends: https://clips.twitch.tv/ExquisiteSourWombatKappaWealth**
 - **Diabotical Insane Triple Kill: https://streamable.com/vd4dz**
 
 - **CSGO Test: https://www.youtube.com/watch?v=gvHR4sSql-E**
