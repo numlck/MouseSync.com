@@ -11,7 +11,8 @@ ReyonMouseFix directly correlates the mouse distance like (1.2345) into the same
 
 or a whole integer thereof like 1:5, you can adjust this in Extra Scale X/Y Setting
 
-To illustrate https://i.imgur.com/sfk0bjX.png
+To illustrate 
+![ReyonMouseFix How does it work](https://i.imgur.com/sfk0bjX.png) 
 
 # Sidenote 
 
