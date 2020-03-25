@@ -1,4 +1,4 @@
-# ReyonMouseFix
+# MouseSync.com
 A mousefix that greatly improves aim by quantization (for lack of a better word)
 Uses one of the same libraries as Povohat/Kovaaks Mouse Accell | Interaccell 
 
